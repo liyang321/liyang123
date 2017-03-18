@@ -1,0 +1,9 @@
+body {
+    background: #000;
+}
+.content {
+    width: 1000px;
+    margin: 0 auto;
+    color: #fff;
+    text-align: center;
+}
